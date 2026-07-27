@@ -1,0 +1,20 @@
+# Generated predictions and tracking output
+runs/
+
+# Downloaded model weights
+*.pt
+
+# Local media and datasets
+data/
+datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
